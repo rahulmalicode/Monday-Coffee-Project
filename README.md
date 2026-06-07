@@ -5,6 +5,22 @@
 ## Objective
 The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
 
+--- 
+
+## **Schema Structure**
+- The database contains 4 tables: *city*, *customers* , *products* , *sales*
+- These tables are designed with primary keys, foreign key constraints, and proper indexing to maintain data performance
+  
+---
+
+## 🔧 Tools & Technologies
+- **Database:** MYSQL
+- **Language:** SQL (Advanced)
+- **Concepts Used:** Window Functions, CTEs, Subqueries, Joins,
+  Aggregations, Date Functions, CASE statements
+
+---
+
 ## Key Questions
 1. **Coffee Consumers Count**  
    How many people in each city are estimated to consume coffee, given that 25% of the population does?
